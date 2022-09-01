@@ -240,8 +240,8 @@ function doWhile(numero) {
     do{
       numero = numero + 5
       conteo = conteo + 1;
-      
-    } while (conteo<8);
+
+    } while (conteo < 8);
 
     return numero;
 
